@@ -15,6 +15,8 @@ const Login = props => (
       <button
         onClick={ props.connectToRoom }>Rejoindre le chat</button>
     </div>
+
+    <small>Made with <span style={{ color: 'red' }}>❤</span> by Jordan</small>
   </div>
 );
 

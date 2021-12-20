@@ -41,3 +41,10 @@
   transform: scale(1.07);
   transition-duration: 0.2s;
 }
+
+.centeredLogin small {
+  position: absolute;
+  bottom: 15px;
+  color: white;
+  opacity: 0.2;
+}
