@@ -3,6 +3,7 @@ import './Login.css';
 const Login = props => (
   <div className="centeredLogin">
     <div className="login">
+      <img src="logo.png" alt="Xchat" />
       <input
         type="text"
         placeholder="Nom d'utilisateur"

@@ -5,6 +5,10 @@
 
   height: 100vh;
 }
+.login img {
+  width: 150px;
+  margin: auto auto 15px auto;
+}
 .login {
   display: flex;
   flex-direction: column;

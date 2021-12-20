@@ -26,7 +26,6 @@ io.on('connection', socket => {
 		const { room, content } = data;
 
 		// Everyone in the room will receive event
-		console.log(data);
 		socket.to(room).emit('receive_message', content);
 	});
 
