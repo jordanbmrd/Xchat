@@ -1,2 +1,3 @@
-# instant-chat
-Instant chat app built with ReactJS which support image transfer.
+# Xchat
+
+Application web de discussion en temps réel en utilisant les websockets
